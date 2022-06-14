@@ -27,6 +27,8 @@ Decide what classes are useful to you.
 
 Profit!
 
+JavaDoc is available [here](https://kdgregory.github.io/kdgcommons/apidocs/index.html).
+
 
 ## Structure
 
@@ -44,8 +46,6 @@ The top-level package is `com.kdgregory.kdgcommons`. Under that you'll find the 
 `test`          | Helpers for JUnit tests, including a range of asserts and mocks. Supports JUnit versions from 3.8.2 up.
 `tuple`         | At present, just supports 2-tuples.
 `util`          | A catch-all for everything else. Looking at it as I write this README, most of what it contains should be elsewhere.
-
-JavaDoc is available [here](https://kdgregory.github.io/kdgcommons/apidocs/index.html).
 
 
 ## Versions
