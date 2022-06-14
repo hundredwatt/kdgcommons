@@ -23,11 +23,9 @@ version number is [available from Maven Central](https://search.maven.org/search
 </dependency>
 ```
 
-Decide what classes are useful to you.
+Decide what classes are useful to you (JavaDoc is available [here](https://kdgregory.github.io/kdgcommons/apidocs/index.html)).
 
 Profit!
-
-JavaDoc is available [here](https://kdgregory.github.io/kdgcommons/apidocs/index.html).
 
 
 ## Structure
